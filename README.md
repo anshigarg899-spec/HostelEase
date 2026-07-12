@@ -150,21 +150,6 @@ The application can be improved further by adding:
 
 ---
 
-# 📱 Application Screenshots
-
-(Add your app screenshots here)
-
-Example:
-
-```
-screenshots/
-│── login.png
-│── home.png
-│── services.png
-│── requests.png
-```
-
----
 
 # 👩‍💻 Developer
 
